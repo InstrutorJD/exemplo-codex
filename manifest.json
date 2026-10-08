@@ -1,0 +1,22 @@
+{
+  "id": "./",
+  "name": "PIXEL — Seu próximo universo começa aqui",
+  "short_name": "PIXEL",
+  "description": "Descubra jogos, encontre sua próxima aventura e jogue do seu jeito.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0b0b10",
+  "theme_color": "#0b0b10",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
